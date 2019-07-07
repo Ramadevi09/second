@@ -52,7 +52,7 @@ nav a:hover{
 
 .hero-image{
 	
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/home/ramadevi/Desktop/second website1/pictures/20.jpeg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pictures/20.jpeg");
   width:100%;
   align-items: center;
   margin-top: 74px;
