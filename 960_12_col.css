@@ -23,7 +23,7 @@ body {
 .container_12 {
   margin-left: 0px;
   margin-right: 0px;
-  width: 960px;
+  width: 1000px;
 }
 
 /* `Grid >> Global
@@ -120,7 +120,7 @@ body {
 }
 
 .container_12 .grid_12 {
-  width: 940px;
+  width: 980px;
 }
 
 /* `Prefix Extra Space >> 12 Columns
